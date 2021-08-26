@@ -1,8 +1,6 @@
 # shoes_project
 
 A new Flutter project.
-![Simulator Screen Shot - iPhone 12 Pro - 2021-08-26 at 14 09 07]<img src="https://user-images.githubusercontent.com/16714870/130924777-a7893da7-fcb0-421e-93ae-853b14a547e9.png width="400" height="790">
-  
 ![Simulator Screen Shot - iPhone 12 Pro - 2021-08-26 at 14 09 28](https://user-images.githubusercontent.com/16714870/130924792-6ae0b337-372c-4c84-a910-d66d25dd4d1b.png)
 ![Simulator Screen Shot - iPhone 12 Pro - 2021-08-26 at 14 09 46](https://user-images.githubusercontent.com/16714870/130924796-20c5a6d4-a1ed-4e3f-8f3e-68c5acdd7df2.png)
 ![Simulator Screen Shot - iPhone 12 Pro - 2021-08-26 at 14 09 58](https://user-images.githubusercontent.com/16714870/130924799-b8dc7e8f-0612-4e52-8bad-e646e0e4ac9c.png)
