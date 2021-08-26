@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![Simulator Screen Shot - iPhone 12 Pro - 2021-08-26 at 14 09 07](https://user-images.githubusercontent.com/16714870/130921998-f42ede1b-51ed-402c-93c6-bd5136ea3115.png)
+ (https://user-images.githubusercontent.com/16714870/130921998-f42ede1b-51ed-402c-93c6-bd5136ea3115.png)
 ![Simulator Screen Shot - iPhone 12 Pro - 2021-08-26 at 14 09 28](https://user-images.githubusercontent.com/16714870/130922005-227ccc67-7a1c-4ad4-a6f8-7e2a59ddb771.png)
 ![Simulator Screen Shot - iPhone 12 Pro - 2021-08-26 at 14 09 46](https://user-images.githubusercontent.com/16714870/130922006-fc49431e-d6eb-461e-82cc-4a02027abbaa.png)
 ![Simulator Screen Shot - iPhone 12 Pro - 2021-08-26 at 14 09 58](https://user-images.githubusercontent.com/16714870/130922008-5a456a6a-ee41-4e00-a3e6-e084816f579b.png)
